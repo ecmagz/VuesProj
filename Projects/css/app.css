@@ -5,7 +5,7 @@
 .healthbar {
     width: 80%;
     height: 40px;
-    background-color: #eee;
+    background-color: #00008b;
     margin: auto;
     transition: width 500ms;
     border-radius: 20px;
@@ -71,13 +71,13 @@ button {
 }
 
 #start-game {
-    background-color: #aaffb0;
+    background-color: #00ffff;
     border-top-right-radius: 30px;
     border-bottom-left-radius: 30px;
 }
 
 #start-game:hover {
-    background-color: #76ff7e;
+    background-color: #a52a2a;
 }
 
 #attack {
@@ -87,7 +87,7 @@ button {
 }
 
 #attack:hover {
-    background-color: #ff3f43;
+    background-color: #a52a2a;
 }
 
 #special-attack {
